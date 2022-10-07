@@ -1,1 +1,1 @@
-This readme contains all shell solutions
+THis readme contains all shell solutions
