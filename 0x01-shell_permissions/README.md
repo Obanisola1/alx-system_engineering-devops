@@ -1,1 +1,1 @@
-0x01shell permission
+This readme contains all shell solutions
